@@ -18,5 +18,5 @@
     50%{background-color: black}
     60%{background-color: cadetblue}
     80%{background-color: brown}
-    100%{background-color: blue;width:0}
+    100%{background-color: blue;transform: scale(0)}
 }
