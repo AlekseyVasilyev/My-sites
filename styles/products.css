@@ -1,0 +1,23 @@
+@import url(products-desktop.css) (min-width:991px);
+@import url(products-tablet.css) (min-width:769px) and (max-width:990px);
+@import url(products-mobile.css) (max-width:768px);
+
+#product{
+    text-align: center;
+    background-color: #931773;
+    margin-top: 20px;
+    border-radius: 5px;
+    font-weight: 600;
+    color:#f0dae2;
+    letter-spacing: 3px;
+}
+.cat_feed h3{
+    margin-top: 10px;
+}
+.cat_feed{
+    display: flex;
+    margin-top: 10px;
+    border:2px solid #931773;
+    background-color: #eed0db;
+    margin-bottom:20px;
+}

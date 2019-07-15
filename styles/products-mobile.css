@@ -1,0 +1,26 @@
+@import url(style-adaptive.css);
+
+#main{
+    margin-top:50px;
+}
+.cat_feed h3{
+    font-size:4vw;
+    font-weight: 700;
+}
+.cat_feed h4{
+    margin-top:5px;
+    font-size:3.2vw;
+}
+.cat_feed p{
+    font-size: 3vw;
+    margin-bottom:10px;
+}
+#product p{
+    font-size: 5.5vw;
+    margin-bottom:7px;
+}
+.feed_img{
+    height: 40vw;
+    margin: 1% 20px ;
+    float: left;
+}

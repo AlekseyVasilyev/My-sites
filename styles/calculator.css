@@ -1,0 +1,20 @@
+@import url(calculator-desktop.css) (min-width:991px);
+@import url(calculator-mobile.css) (max-width:990px);
+@import url(products.css);
+
+#food-calculator{
+    margin-top:70px;
+}
+#delicacy{
+    text-align: center;
+    background-color: #931773;
+    margin-top: 10px;
+    border-radius: 5px;
+    font-weight: 600;
+    color:#f0dae2;
+    letter-spacing: 3px;
+    font-size: 2vw;
+}
+.reset_btn{
+    margin-bottom:20px;
+}
